@@ -5,6 +5,10 @@
 #include <stdint.h>
 #include <iostream>
 
+
+
+
+
 // Constants are the integer part of the sines of integers (in radians) * 2^32.
 const uint32_t k[64] =
 {

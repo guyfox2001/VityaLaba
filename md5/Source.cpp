@@ -13,6 +13,10 @@ struct DataField {
     size_t length;
     int count;
     uint8_t result[16];
+
+
+
+
 };
 
 struct hash_table {
